@@ -1,0 +1,141 @@
+@import "tailwindcss";
+@import "./animations.css";
+@theme {
+  --color-paper: #faf6f0;
+  --color-paper-deep: #f0e6d6;
+  --color-ink: #180d07;
+  --color-ink-soft: #543d31;
+  --color-clay: #7c2d12;
+  --color-rule: rgba(30,15,8,.18);
+  --font-serif: "Libre Caslon Display","Libre Caslon Text",Georgia,serif;
+  --font-text: "Libre Caslon Text",Georgia,serif;
+  --font-sans: "Poppins",system-ui,sans-serif;
+  --text-micro: .6875rem;
+}
+
+html { 
+  background: var(--color-paper); 
+  scroll-behavior: auto; 
+}
+
+html.lenis, html.lenis body { 
+  height: auto; 
+}
+
+.lenis.lenis-smooth { 
+  scroll-behavior: auto !important; 
+}
+
+body { 
+  margin: 0; 
+  color: var(--color-ink); 
+  font-family: var(--font-sans); 
+  font-weight: 300; 
+  -webkit-font-smoothing: antialiased; 
+  overflow-x: hidden;
+}
+
+h1,h2,h3 { 
+  font-family: var(--font-serif); 
+  font-weight: 400; 
+  margin: 0; 
+}
+
+a, button { color: inherit; }
+:focus-visible { outline: 1px solid var(--color-clay); outline-offset: 3px; }
+
+/* Subtle Paper Grain Texture */
+body::before { 
+  content: ""; 
+  position: fixed; 
+  inset: 0; 
+  z-index: 0; 
+  pointer-events: none; 
+  opacity: .04; 
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); 
+}
+
+#root { position: relative; z-index: 1; }
+
+.grade { 
+  filter: grayscale(.75) sepia(.25) contrast(1.08) brightness(.98); 
+  transition: filter 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.grade:hover {
+  filter: grayscale(0) sepia(0) contrast(1.12) saturate(1.15) brightness(1.02);
+}
+
+.grade-color { 
+  filter: sepia(.12) saturate(1.02) contrast(1.06); 
+  transition: filter 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.grade-color:hover {
+  filter: grayscale(0) sepia(0) saturate(1.18) contrast(1.12);
+}
+
+@media (prefers-reduced-motion: reduce){ 
+  * { animation-duration: .01ms !important; transition-duration: .01ms !important; } 
+}
+
+/* Galeri Hover State */
+.gallery:has(.tile:hover) .tile:not(:hover) { 
+  opacity: .55; 
+  filter: blur(1px);
+}
+.tile { 
+  transition: opacity .6s cubic-bezier(0.16, 1, 0.3, 1), filter .6s ease; 
+}
+
+/* Living Culture Accordion Expansion */
+.living-item { 
+  flex: 1 1 0; 
+  min-width: 0; 
+  transition: flex-grow .9s cubic-bezier(.16, 1, .3, 1), transform .6s ease; 
+}
+@media (hover:hover) and (min-width:768px){ 
+  .living-item:hover, .living-item:focus-within { 
+    flex-grow: 2.2; 
+    transform: translateY(-4px);
+  } 
+}
+@media (prefers-reduced-motion: reduce){ 
+  .living-item { transition: none; } 
+}
+
+/* Animasi awan melayang di atas peta 3D diorama */
+@keyframes cloudDrift {
+  0% { transform: translate3d(-3%, -2%, 0) scale(1); }
+  50% { transform: translate3d(3%, 2%, 0) scale(1.03); }
+  100% { transform: translate3d(-3%, -2%, 0) scale(1); }
+}
+
+@keyframes cloudDriftReverse {
+  0% { transform: translate3d(4%, 3%, 0) scale(1.04); }
+  50% { transform: translate3d(-4%, -3%, 0) scale(1); }
+  100% { transform: translate3d(4%, 3%, 0) scale(1.04); }
+}
+
+.cloud-layer-1 {
+  animation: cloudDrift 28s ease-in-out infinite;
+  will-change: transform;
+}
+
+.cloud-layer-2 {
+  animation: cloudDriftReverse 36s ease-in-out infinite;
+  will-change: transform;
+}
+
+/* Pulse glow untuk hotspot pulau */
+@keyframes hotspotPulse {
+  0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(217, 119, 6, 0.7); }
+  70% { transform: scale(1.15); box-shadow: 0 0 0 12px rgba(217, 119, 6, 0); }
+  100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(217, 119, 6, 0); }
+}
+
+.hotspot-ring {
+  animation: hotspotPulse 2.4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+html { scrollbar-width: none; }
+html::-webkit-scrollbar { display: none; }

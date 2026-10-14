@@ -1,9 +1,0 @@
-@tailwind base; @tailwind components; @tailwind utilities;
-html.lenis, html.lenis body { height: auto }
-.lenis.lenis-smooth { scroll-behavior: auto !important }
-body { @apply bg-cream text-ink font-sans antialiased; }
-.photo { filter: sepia(.55) grayscale(.35) contrast(1.05); background: linear-gradient(135deg,#4a3a30,#1f1611); }
-.label { @apply font-sans text-[10px] tracking-[.22em] text-cocoa/80; }
-.chip { @apply rounded-full border border-sand/60 px-5 py-1.5 text-[11px] transition-colors; }
-.btn { @apply inline-flex items-center gap-2 rounded-full bg-cocoa px-5 py-2.5 text-[11px] text-cream transition-transform hover:scale-[1.04]; }
-@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important } }

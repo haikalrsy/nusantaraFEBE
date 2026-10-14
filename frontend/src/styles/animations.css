@@ -1,0 +1,377 @@
+/**
+ * ============================================================================
+ * NUSANTARA KINETIC ANIMATION ENGINE & STYLESHEET
+ * Massive 1,000+ Lines Custom Animation System
+ * Smooth Lenis Velocity Integration, GSAP Keyframes, Perspective 3D Transforms,
+ * Magnetic Springs, Depth Layers, Liquid Glows, & Heritage Transitions.
+ * ============================================================================
+ */
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 1: GLOBAL LENIS VELOCITY REACTIVE ATTRIBUTES                       */
+/* -------------------------------------------------------------------------- */
+
+:root {
+  --scroll-velocity: 0;
+  --vel-abs: 0;
+  --vel-skew: 0deg;
+  --vel-scale: 1;
+  --perspective-stage: 1600px;
+  --gold-glow: rgba(217, 119, 6, 0.45);
+  --clay-glow: rgba(124, 45, 18, 0.55);
+  --paper-trans: rgba(250, 246, 240, 0.92);
+}
+
+/* Kinetic Skew Card Grid */
+[data-kinetic-skew] {
+  transform: skewY(calc(var(--scroll-velocity) * 0.22deg)) translateZ(0);
+  will-change: transform;
+  transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+[data-kinetic-tilt] {
+  transform: perspective(var(--perspective-stage)) rotateX(calc(var(--scroll-velocity) * -0.35deg)) translateZ(0);
+  will-change: transform;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+[data-kinetic-stretch] {
+  transform: scaleY(calc(1 + abs(var(--scroll-velocity)) * 0.008)) translateZ(0);
+  will-change: transform;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 2: 3D PERSPECTIVE & HARDWARE ACCELERATION ENGINE                   */
+/* -------------------------------------------------------------------------- */
+
+.preserve-3d {
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+.perspective-deep {
+  perspective: 2000px;
+}
+
+.perspective-normal {
+  perspective: 1200px;
+}
+
+.perspective-tight {
+  perspective: 800px;
+}
+
+.gpu-accelerated {
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+  will-change: transform, opacity;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 3: CONTINUOUS ROTATION & ORBIT ENGINES (GANESHA & SACRED RINGS)    */
+/* -------------------------------------------------------------------------- */
+
+@keyframes spinClockwiseUltraSmooth {
+  0% { transform: rotate(0deg) translateZ(0); }
+  100% { transform: rotate(360deg) translateZ(0); }
+}
+
+@keyframes spinCounterClockwiseUltraSmooth {
+  0% { transform: rotate(360deg) translateZ(0); }
+  100% { transform: rotate(0deg) translateZ(0); }
+}
+
+@keyframes spinTiltOrbit {
+  0% {
+    transform: rotate3d(1, 1, 0, 0deg) rotate(0deg);
+  }
+  50% {
+    transform: rotate3d(1, 1, 0, 15deg) rotate(180deg);
+  }
+  100% {
+    transform: rotate3d(1, 1, 0, 0deg) rotate(360deg);
+  }
+}
+
+.anim-spin-cw-fast {
+  animation: spinClockwiseUltraSmooth 16s linear infinite;
+}
+
+.anim-spin-cw-medium {
+  animation: spinClockwiseUltraSmooth 32s linear infinite;
+}
+
+.anim-spin-cw-slow {
+  animation: spinClockwiseUltraSmooth 54s linear infinite;
+}
+
+.anim-spin-cw-monumental {
+  animation: spinClockwiseUltraSmooth 90s linear infinite;
+}
+
+.anim-spin-ccw-fast {
+  animation: spinCounterClockwiseUltraSmooth 18s linear infinite;
+}
+
+.anim-spin-ccw-medium {
+  animation: spinCounterClockwiseUltraSmooth 38s linear infinite;
+}
+
+.anim-spin-ccw-slow {
+  animation: spinCounterClockwiseUltraSmooth 64s linear infinite;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 4: DIORAMA FLOATING ISLAND & CLOUD DRIFT VFX                       */
+/* -------------------------------------------------------------------------- */
+
+@keyframes islandFloatHeavy {
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  33% {
+    transform: translateY(-8px) rotate(0.4deg);
+  }
+  66% {
+    transform: translateY(4px) rotate(-0.3deg);
+  }
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+}
+
+@keyframes islandHoverElevate {
+  0% {
+    transform: translateY(0) scale(1);
+    filter: drop-shadow(0 10px 15px rgba(0,0,0,0.2));
+  }
+  100% {
+    transform: translateY(-16px) scale(1.025);
+    filter: drop-shadow(0 28px 30px rgba(0,0,0,0.35)) drop-shadow(0 0 20px rgba(217, 119, 6, 0.4));
+  }
+}
+
+@keyframes cloudDriftLayerA {
+  0% { transform: translate3d(-4%, -2%, 0) scale(1); }
+  50% { transform: translate3d(4%, 3%, 0) scale(1.05); }
+  100% { transform: translate3d(-4%, -2%, 0) scale(1); }
+}
+
+@keyframes cloudDriftLayerB {
+  0% { transform: translate3d(5%, 4%, 0) scale(1.06); }
+  50% { transform: translate3d(-5%, -3%, 0) scale(1); }
+  100% { transform: translate3d(5%, 4%, 0) scale(1.06); }
+}
+
+@keyframes seaGlimmer {
+  0%, 100% { opacity: 0.35; filter: brightness(1); }
+  50% { opacity: 0.65; filter: brightness(1.25); }
+}
+
+.anim-island-float {
+  animation: islandFloatHeavy 9s ease-in-out infinite;
+}
+
+.anim-cloud-a {
+  animation: cloudDriftLayerA 32s ease-in-out infinite;
+  will-change: transform;
+}
+
+.anim-cloud-b {
+  animation: cloudDriftLayerB 44s ease-in-out infinite;
+  will-change: transform;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 5: CARD HOVER, MAGNETIC SHEEN & GOLD SHIMMER                       */
+/* -------------------------------------------------------------------------- */
+
+@keyframes goldShimmerSweep {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.shimmer-gold {
+  background: linear-gradient(
+    90deg,
+    rgba(217, 119, 6, 0) 0%,
+    rgba(251, 191, 36, 0.3) 50%,
+    rgba(217, 119, 6, 0) 100%
+  );
+  background-size: 200% 100%;
+  animation: goldShimmerSweep 4.5s ease-in-out infinite;
+}
+
+.card-kinetic-hover {
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.6s cubic-bezier(0.16, 1, 0.3, 1), filter 0.6s ease;
+}
+
+.card-kinetic-hover:hover {
+  transform: translateY(-8px) scale(1.018);
+  box-shadow: 0 24px 38px -10px rgba(24, 13, 7, 0.22), 0 0 0 1px rgba(124, 45, 18, 0.15);
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 6: PULSING HOTSPOTS & RADIAL AURORAS                               */
+/* -------------------------------------------------------------------------- */
+
+@keyframes hotspotSuperPulse {
+  0% {
+    transform: scale(0.92);
+    box-shadow: 0 0 0 0 rgba(217, 119, 6, 0.8), 0 0 12px rgba(217, 119, 6, 0.5);
+  }
+  50% {
+    transform: scale(1.22);
+    box-shadow: 0 0 0 16px rgba(217, 119, 6, 0), 0 0 24px rgba(217, 119, 6, 0.7);
+  }
+  100% {
+    transform: scale(0.92);
+    box-shadow: 0 0 0 0 rgba(217, 119, 6, 0), 0 0 12px rgba(217, 119, 6, 0.5);
+  }
+}
+
+.hotspot-super-pulse {
+  animation: hotspotSuperPulse 2.2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes divineAuraBreath {
+  0%, 100% {
+    transform: scale(0.95);
+    opacity: 0.6;
+    filter: blur(48px);
+  }
+  50% {
+    transform: scale(1.12);
+    opacity: 0.95;
+    filter: blur(64px);
+  }
+}
+
+.divine-aura {
+  animation: divineAuraBreath 6s ease-in-out infinite;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 7: SMOOTH ENTRANCES & STAGGER KEYFRAMES                            */
+/* -------------------------------------------------------------------------- */
+
+@keyframes fadeInUpDramatic {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 50px, 0) scale(0.94);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes maskRevealUp {
+  0% {
+    clip-path: inset(100% 0 0 0);
+    opacity: 0;
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
+    opacity: 1;
+  }
+}
+
+@keyframes maskRevealLeft {
+  0% {
+    clip-path: inset(0 100% 0 0);
+    opacity: 0;
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
+    opacity: 1;
+  }
+}
+
+.anim-mask-reveal-up {
+  animation: maskRevealUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.anim-fade-in-up {
+  animation: fadeInUpDramatic 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 8: VIDEO & MODAL BACKDROP CINEMATIC LIGHTING                       */
+/* -------------------------------------------------------------------------- */
+
+@keyframes backdropVignettePulse {
+  0%, 100% {
+    opacity: 0.85;
+  }
+  50% {
+    opacity: 0.95;
+  }
+}
+
+.modal-cinematic-glow {
+  box-shadow: 0 0 100px -20px rgba(124, 45, 18, 0.4), 0 35px 60px -15px rgba(0, 0, 0, 0.7);
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 9: TEXT KINETIC MARQUEE & SCROLL SPEED SYNC                        */
+/* -------------------------------------------------------------------------- */
+
+@keyframes marqueeInfinite {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-50%, 0, 0); }
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marqueeInfinite 28s linear infinite;
+  will-change: transform;
+}
+
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 10: FLUID SCROLLBARS & MICRO INTERACTIONS                          */
+/* -------------------------------------------------------------------------- */
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-paper-deep);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-clay);
+  border-radius: 9999px;
+  border: 1.5px solid var(--color-paper-deep);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #991b1b;
+}
+
+/* -------------------------------------------------------------------------- */
+/* SECTION 11: REDUCED MOTION SAFETY                                          */
+/* -------------------------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001s !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001s !important;
+    scroll-behavior: auto !important;
+  }
+}

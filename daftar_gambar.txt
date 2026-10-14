@@ -1,0 +1,718 @@
+================================================================
+DAFTAR SELURUH LINK GAMBAR / IMAGE NUSANTARA PROJECT
+================================================================
+
+----------------------------------------------------------------
+1. GAMBAR HERO KEPULAUAN (ISLANDS)
+----------------------------------------------------------------
+[JAWA (jawa)]
+Cover Hero: https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?auto=format&fit=crop&w=1200&q=80
+
+[SUMATRA (sumatra)]
+Cover Hero: https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1200&q=80
+
+[BALI (bali)]
+Cover Hero: https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80
+
+[KALIMANTAN (kalimantan)]
+Cover Hero: https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+
+[SULAWESI (sulawesi)]
+Cover Hero: https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+
+[NUSA TENGGARA (nusa-tenggara)]
+Cover Hero: https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+
+[MALUKU (maluku)]
+Cover Hero: https://images.unsplash.com/photo-1559827291-72ebf3d20d4c?auto=format&fit=crop&w=1200&q=80
+
+[PAPUA (papua)]
+Cover Hero: https://images.unsplash.com/photo-1597655601841-214a4cfe8b2c?auto=format&fit=crop&w=1200&q=80
+
+----------------------------------------------------------------
+2. GAMBAR KEBUDAYAAN (CULTURES) - FOTO UTAMA & GALERI
+----------------------------------------------------------------
+1. Rendang (sumatra - Makanan)
+   Slug       : rendang
+   Foto Utama : https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/17A7A/production/_102609869_rendanggettysatu.jpg.webp
+   Galeri Foto:
+     [Foto 1] https://www.dailymeatrecipe.com/wp-content/uploads/2025/07/Beef-Rendang-Recipe.webp — Penyajian Rendang Daging Sapi dengan bumbu pekat berminyak alami
+     [Foto 2] https://image.idntimes.com/post/20250122/1542px-memasak-rendang-59f506aa441e3192bb4237a4e87b2a36-7875d0d5fe6d24dc396302de528f1f39.jpg?tr=w-1200 — Proses memasak rendang dengan api kuali yang besar dan tradisional
+     [Foto 3] https://www.jamrocksportsbarandgrill.com/wp-content/uploads/2026/02/Proses-Pembuatan-Rendang-Tradisional-yang-Kaya-Rempah-788x520.jpg — Rempah-rempah asli Nusantara: serai, lengkuas, jahe, dan cabai merah keriting
+
+2. Sate Padang (sumatra - Makanan)
+   Slug       : sate-padang
+   Foto Utama : https://sumbarzone.com/wp-content/uploads/2024/06/sate-padang-2.jpeg
+   Galeri Foto:
+     [Foto 1] https://static.vecteezy.com/system/resources/thumbnails/015/957/916/small_2x/sate-padang-or-satay-padang-is-spicy-beef-satay-from-padang-west-sumatra-served-with-spicy-curry-sauce-and-rice-cake-lontong-on-banana-leaf-isolated-on-white-background-photo.jpg — Sate Padang dengan kuah kental beraroma rempah dan taburan bawang goreng yang di sajikan di atas daun pisang
+     [Foto 2] https://kediripedia.com/wp-content/uploads/2020/01/sate-padang-1024x683.jpg — Proses pembakaran tusukan daging di atas arang batok kelapa
+     [Foto 3] https://static.vecteezy.com/system/resources/thumbnails/015/957/916/small_2x/sate-padang-or-satay-padang-is-spicy-beef-satay-from-padang-west-sumatra-served-with-spicy-curry-sauce-and-rice-cake-lontong-on-banana-leaf-isolated-on-white-background-photo.jpg — Penyajian dengan ketupat potong dalam pincuk daun pisang
+
+3. Pempek Palembang (sumatra - Makanan)
+   Slug       : pempek
+   Foto Utama : https://radarmukomuko.disway.id/upload/cc047869d0bff7ad27a0956ced9d1d63.jpg
+   Galeri Foto:
+     [Foto 1] https://www.pinterpolitik.com/wp-content/uploads/2023/09/foto-radarmukomuko-dot-disway-dot-id.webp — Pempek Kapal Selam digoreng garing dengan kuah cuko hitam kental
+     [Foto 2] https://www.dandapala.com/assets/back/article/img/compress/menilik-kreativitas-wong-kito-galo-dalam-ragam-jenis-pempek-thumbnail.jpg — Aneka ragam pempek
+     [Foto 3] https://awsimages.detik.net.id/community/media/visual/2024/10/01/cuko-pempek-palembang_43.jpeg?w=700&q=90 — Cuko pempek asli dari gula aren dan cabai rawit
+
+4. Songket Palembang (sumatra - Pakaian)
+   Slug       : songket-palembang
+   Foto Utama : https://indonesiaexpat.id/wp-content/uploads/2023/11/Main-Image-Songket-Palembang-by-Digstraksi.jpg
+   Galeri Foto:
+     [Foto 1] https://enimekspres.disway.id/upload/1cc69ea7a4a1a549b6540051b43d1d75.jpg — Kilau benang emas motif songket Lepus Palembang
+     [Foto 2] https://i.pinimg.com/1200x/ed/0b/d7/ed0bd7af8482c4c018c3cf22d3815cda.jpg — Pengrajin perempuan menenun helai demi helai di alat tenun gedogan
+     [Foto 3] https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=80 — Busana adat kebesaran pengantin Palembang Aesan Gede berbahan songket
+
+5. Ulos Batak (sumatra - Pakaian)
+   Slug       : ulos-batak
+   Foto Utama : https://floodlove.net/wp-content/uploads/2022/12/Jenis-jenis-Ulos-Batak.webp
+   Galeri Foto:
+     [Foto 1] https://floodlove.net/wp-content/uploads/2022/12/Jenis-jenis-Ulos-Batak.webp — Ulos Batak - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Ulos Batak - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Ulos Batak - Warisan budaya luhur
+
+6. Busana Adat Minangkabau (sumatra - Pakaian)
+   Slug       : pakaian-adat-minang
+   Foto Utama : https://i.pinimg.com/originals/9e/c5/66/9ec566302570efc8d57e8e4b6adf9987.jpg?nii=t
+   Galeri Foto:
+     [Foto 1] https://i.pinimg.com/originals/9e/c5/66/9ec566302570efc8d57e8e4b6adf9987.jpg?nii=t — Busana Adat Minangkabau - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Busana Adat Minangkabau - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Busana Adat Minangkabau - Warisan budaya luhur
+
+7. Tari Saman (sumatra - Tradisi)
+   Slug       : tari-saman
+   Foto Utama : https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/24/2021/07/tari-4-1.jpg?width=700&quality=80
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Deretan penari Saman bergerak dalam sinkronisasi sempurna dan cepat
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Pola gerak serong dan lentikan tubuh suku Gayo nan energik
+     [Foto 3] https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-SVgko2JTImRwC-3dGIE_3V2WjQDWi7UenMIhf0SnGo1CmJttJpxxnV_hwox08fANXpSsoel0tv8TE_aAoA78rFTVnMoAuE81Fy1IbGc-1gnbvt3CXADlaPPYzqjppkYJ0hauREqYDMQ/s1600/Industri-Batik-Hadapi-MEA-271015-Prad-1.jpg — Detail motif tenun kerawang Gayo pada busana penari Saman
+
+8. Lompat Batu Nias (Fahombo) (sumatra - Tradisi)
+   Slug       : lompat-batu-nias
+   Foto Utama : https://2.bp.blogspot.com/-TEqWsjKt3cY/UJ0N8NwVWBI/AAAAAAAAAJg/P-X1V-9D1Cg/s1600/Lompat+Batu+Nias.JPG
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Pemuda Nias melayang di udara melompati monolit batu Hombo
+     [Foto 2] https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80 — Desa adat Bawomataluo dengan deretan rumah panggung Omo Sebua
+     [Foto 3] https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=80 — Baju adat perang Nias warna kuning dan merah mencolok
+
+9. Pacu Jalur (sumatra - Tradisi)
+   Slug       : pacu-jalur
+   Foto Utama : https://api.kemenpar.go.id/storage/app/uploads/public/688/c94/6b4/thumb_14595_1200_630_0_0_crop.jpg
+   Galeri Foto:
+     [Foto 1] https://api.kemenpar.go.id/storage/app/uploads/public/688/c94/6b4/thumb_14595_1200_630_0_0_crop.jpg —  Perahu viral jalur beradu cepat di Sungai Batang Kuantan
+     [Foto 2] https://images.bisnis.com/posts/2025/07/02/1889814/pacu_jalur_1751443671.jpg — Puluhan pendayung mendayung serempak dengan energi maksimal
+     [Foto 3] https://asset.mediaindonesia.com/news/2025/08/19/1755558617_1a0cbac0abf7ddec3aa1.jpg — Suasana riuh ribuan penonton memadati tepian sungai festival
+
+10. Gudeg Yogyakarta (jawa - Makanan)
+   Slug       : gudeg
+   Foto Utama : https://img.freepik.com/premium-photo/close-up-gudeg-komplit-signature-legendary-dish-from-yogyakarta-indonesia-jack-fruit-stew-accompanied-with-spicy-stew-cattle-skin-crackers-brown-eggs-tofu-tempeh-sambal_511235-5876.jpg?w=2000
+   Galeri Foto:
+     [Foto 1] https://kediripedia.com/wp-content/uploads/2020/01/sate-padang-1024x683.jpg — Satu porsi komplit Gudeg dengan sambal krecek, ayam kampung, dan telur pindang
+     [Foto 2] https://www.jamrocksportsbarandgrill.com/wp-content/uploads/2026/02/Proses-Pembuatan-Rendang-Tradisional-yang-Kaya-Rempah-788x520.jpg — Proses memasak gudeg di dalam kuali tanah liat besar berjam-jam
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Gudeg basah disiram areh santan kental yang gurih di warung lesehan
+
+11. Rawon (jawa - Makanan)
+   Slug       : rawon
+   Foto Utama :  https://kabarbaru.co/wp-content/uploads/2022/02/Rawon-800x533.jpg
+   Galeri Foto:
+     [Foto 1]  https://kabarbaru.co/wp-content/uploads/2022/02/Rawon-800x533.jpg — Rawon - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Rawon - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Rawon - Warisan budaya luhur
+
+12. Lumpia Semarang (jawa - Makanan)
+   Slug       : lumpia-semarang
+   Foto Utama : https://img-global.cpcdn.com/recipes/b052fb8eea6aab1f/680x482cq70/lumpia-semarang-foto-resep-utama.jpg
+   Galeri Foto:
+     [Foto 1] https://img-global.cpcdn.com/recipes/b052fb8eea6aab1f/680x482cq70/lumpia-semarang-foto-resep-utama.jpg — Lumpia Semarang - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Lumpia Semarang - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Lumpia Semarang - Warisan budaya luhur
+
+13. Batik Tulis (jawa - Pakaian)
+   Slug       : batik
+   Foto Utama : https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=1200&auto=format&fit=crop — Proses menorehkan canting lilin malam panas di atas lembaran kain
+     [Foto 2] https://www.yupiland.com/assets/images/blog%202023/Contoh%20Batik/Batik%20Sogan.webp — Motif klasik batik sogan dengan warna cokelat dan nila alami
+     [Foto 3] https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-SVgko2JTImRwC-3dGIE_3V2WjQDWi7UenMIhf0SnGo1CmJttJpxxnV_hwox08fANXpSsoel0tv8TE_aAoA78rFTVnMoAuE81Fy1IbGc-1gnbvt3CXADlaPPYzqjppkYJ0hauREqYDMQ/s1600/Industri-Batik-Hadapi-MEA-271015-Prad-1.jpg — Proses penjemuran kain batik setelah pewarnaan alami di pekarangan
+
+14. Kebaya Jawa (jawa - Pakaian)
+   Slug       : kebaya
+   Foto Utama : https://weddingmarket.com/storage/images/artikelideacontent/new/7890342456acc9aed3d41a373928230402a428ed.webp
+   Galeri Foto:
+     [Foto 1] https://weddingmarket.com/storage/images/artikelideacontent/new/7890342456acc9aed3d41a373928230402a428ed.webp — Kebaya Jawa - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Kebaya Jawa - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Kebaya Jawa - Warisan budaya luhur
+
+15. Beskap & Blangkon (jawa - Pakaian)
+   Slug       : beskap-blangkon
+   Foto Utama : https://down-id.img.susercontent.com/file/84d92bf8d48270ad15be674976fde826
+   Galeri Foto:
+     [Foto 1] https://down-id.img.susercontent.com/file/84d92bf8d48270ad15be674976fde826 — Beskap & Blangkon - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Beskap & Blangkon - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Beskap & Blangkon - Warisan budaya luhur
+
+16. Wayang Kulit (jawa - Tradisi)
+   Slug       : wayang-kulit
+   Foto Utama : https://www.indonesia.travel/contentassets/1ee02702541042c38e6841435fb28318/wayang_banner.jpg
+   Galeri Foto:
+     [Foto 1] https://www.indonesia.travel/contentassets/1ee02702541042c38e6841435fb28318/wayang_banner.jpg — Wayang Kulit - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Wayang Kulit - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Wayang Kulit - Warisan budaya luhur
+
+17. Sekaten (jawa - Tradisi)
+   Slug       : sekaten
+   Foto Utama : https://s1.dmcdn.net/v/X0dwS1d0-DhYmA6PE/x720
+   Galeri Foto:
+     [Foto 1] https://s1.dmcdn.net/v/X0dwS1d0-DhYmA6PE/x720 — Sekaten - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Sekaten - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Sekaten - Warisan budaya luhur
+
+18. Reog Ponorogo (jawa - Tradisi)
+   Slug       : reog-ponorogo
+   Foto Utama : https://cdngnfi2.sgp1.digitaloceanspaces.com/gnfi/uploads/images/2024/10/1024px-tarian-reog-ponorogojpg
+   Galeri Foto:
+     [Foto 1] https://cdngnfi2.sgp1.digitaloceanspaces.com/gnfi/uploads/images/2024/10/1024px-tarian-reog-ponorogojpg — Reog Ponorogo - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Reog Ponorogo - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Reog Ponorogo - Warisan budaya luhur
+
+19. Sate Lilit (bali - Makanan)
+   Slug       : sate-lilit
+   Foto Utama : https://bisnisusahaonline.com/wp-content/uploads/2021/10/1610275052814-sate-lilit.jpg
+   Galeri Foto:
+     [Foto 1] https://www.jamrocksportsbarandgrill.com/wp-content/uploads/2026/02/Proses-Pembuatan-Rendang-Tradisional-yang-Kaya-Rempah-788x520.jpg — Sate lilit batang serai yang dipanggang harum di atas bara arang
+     [Foto 2] https://kediripedia.com/wp-content/uploads/2020/01/sate-padang-1024x683.jpg — Penyajian sate lilit dengan sambal matah segar dan nasi campur Bali
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Bumbu rempah basa genep khas pulau Dewata yang kaya kunyit dan terasi
+
+20. Ayam Betutu (bali - Makanan)
+   Slug       : ayam-betutu
+   Foto Utama :  https://i.pinimg.com/736x/7f/b8/d9/7fb8d98cb1943e743d15374e2174ee97.jpg
+   Galeri Foto:
+     [Foto 1]  https://i.pinimg.com/736x/7f/b8/d9/7fb8d98cb1943e743d15374e2174ee97.jpg — Ayam Betutu - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Ayam Betutu - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Ayam Betutu - Warisan budaya luhur
+
+21. Babi Guling (bali - Makanan)
+   Slug       : babi-guling
+   Foto Utama :  https://blog.inivie.com/wp-content/uploads/2025/02/Artboard-13-20-1-1024x683.jpg
+   Galeri Foto:
+     [Foto 1]  https://blog.inivie.com/wp-content/uploads/2025/02/Artboard-13-20-1-1024x683.jpg — Babi Guling - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Babi Guling - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Babi Guling - Warisan budaya luhur
+
+22. Kain Endek (bali - Pakaian)
+   Slug       : endek-bali
+   Foto Utama :  https://down-id.img.susercontent.com/file/id-11134207-7ra0h-md2zyghhw8txaf
+   Galeri Foto:
+     [Foto 1]  https://down-id.img.susercontent.com/file/id-11134207-7ra0h-md2zyghhw8txaf — Kain Endek - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Kain Endek - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Kain Endek - Warisan budaya luhur
+
+23. Payas Agung (bali - Pakaian)
+   Slug       : payas-agung
+   Foto Utama : https://weddingmarket.com/storage/images/artikelideacontent/new/b5742c14b2951e6a759ecef6fbef2a55062c8dce.webp
+   Galeri Foto:
+     [Foto 1] https://weddingmarket.com/storage/images/artikelideacontent/new/b5742c14b2951e6a759ecef6fbef2a55062c8dce.webp — Payas Agung - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Payas Agung - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Payas Agung - Warisan budaya luhur
+
+24. Udeng & Kamen (bali - Pakaian)
+   Slug       : udeng-kamen
+   Foto Utama :  https://down-id.img.susercontent.com/file/sg-11134201-22110-yprp3re844jv64
+   Galeri Foto:
+     [Foto 1]  https://down-id.img.susercontent.com/file/sg-11134201-22110-yprp3re844jv64 — Udeng & Kamen - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Udeng & Kamen - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Udeng & Kamen - Warisan budaya luhur
+
+25. Tari Kecak (bali - Tradisi)
+   Slug       : tari-kecak
+   Foto Utama : https://cdn.ngopibareng.id/uploads/2022/2022-01-14/tari-kecak-merajut-asa-menuai-mimpi-pulihkan-wisata-di-bali--thumbnail-252
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1773563794845-b56cfaf0532a?auto=format&fit=crop&w=1200&q=80 — Lingkaran puluhan penari Kecak mengangkat kedua tangan ke angkasa di kala senja
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Tokoh Hanoman Si Kera Putih beraksi di tengah lingkaran api
+     [Foto 3] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Latar tebing laut Uluwatu yang dramatis dengan deburan ombak samudra Hindia
+
+26. Ngaben (bali - Tradisi)
+   Slug       : ngaben
+   Foto Utama : https://4.bp.blogspot.com/--FFfW6khOHU/UCZI2s7tfHI/AAAAAAAAAj0/Zzl7lxJtn6M/s1600/ngaben.jpg
+   Galeri Foto:
+     [Foto 1] https://4.bp.blogspot.com/--FFfW6khOHU/UCZI2s7tfHI/AAAAAAAAAj0/Zzl7lxJtn6M/s1600/ngaben.jpg — Ngaben - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Ngaben - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Ngaben - Warisan budaya luhur
+
+27. Nyepi & Ogoh-Ogoh (bali - Tradisi)
+   Slug       : nyepi
+   Foto Utama : https://cdn-1.timesmedia.co.id/images/2022/09/02/Hari-Raya-Nyepi-3.jpg
+   Galeri Foto:
+     [Foto 1] https://cdn-1.timesmedia.co.id/images/2022/09/02/Hari-Raya-Nyepi-3.jpg — Nyepi & Ogoh-Ogoh - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Nyepi & Ogoh-Ogoh - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Nyepi & Ogoh-Ogoh - Warisan budaya luhur
+
+28. Soto Banjar (kalimantan - Makanan)
+   Slug       : soto-banjar
+   Foto Utama : https://media.tampang.com/tm_images/article/202411/buah-organikvpq8cjbb24h64gea.jpg
+   Galeri Foto:
+     [Foto 1] https://media.tampang.com/tm_images/article/202411/buah-organikvpq8cjbb24h64gea.jpg — Soto Banjar - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Soto Banjar - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Soto Banjar - Warisan budaya luhur
+
+29. Juhu Singkah (kalimantan - Makanan)
+   Slug       : juhu-singkah
+   Foto Utama : https://dimensiindonesia.com/wp-content/uploads/2025/11/Juhu-Singkah-scaled.jpg
+   Galeri Foto:
+     [Foto 1] https://dimensiindonesia.com/wp-content/uploads/2025/11/Juhu-Singkah-scaled.jpg — Juhu Singkah - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Juhu Singkah - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Juhu Singkah - Warisan budaya luhur
+
+30. Bubur Pedas Sambas (kalimantan - Makanan)
+   Slug       : bubur-pedas-sambas
+   Foto Utama : https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/03/3377290914.jpeg
+   Galeri Foto:
+     [Foto 1] https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/03/3377290914.jpeg — Bubur Pedas Sambas - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Bubur Pedas Sambas - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Bubur Pedas Sambas - Warisan budaya luhur
+
+31. Kain Sasirangan (kalimantan - Pakaian)
+   Slug       : sasirangan
+   Foto Utama : https://down-id.img.susercontent.com/file/id-11134207-7r98o-lm4ok7j6udv8e1
+   Galeri Foto:
+     [Foto 1] https://down-id.img.susercontent.com/file/id-11134207-7r98o-lm4ok7j6udv8e1 — Kain Sasirangan - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Kain Sasirangan - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Kain Sasirangan - Warisan budaya luhur
+
+32. Baju King Baba & King Bibinge (kalimantan - Pakaian)
+   Slug       : baju-king-baba
+   Foto Utama : https://asset-3s.3second.co.id/blog/image%20blog/1774882727.png
+   Galeri Foto:
+     [Foto 1] https://asset-3s.3second.co.id/blog/image%20blog/1774882727.png — Baju King Baba & King Bibinge - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Baju King Baba & King Bibinge - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Baju King Baba & King Bibinge - Warisan budaya luhur
+
+33. Manik-Manik Dayak (kalimantan - Pakaian)
+   Slug       : manik-dayak
+   Foto Utama : https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/09/16/769367535.jpg
+   Galeri Foto:
+     [Foto 1] https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/09/16/769367535.jpg — Manik-Manik Dayak - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Manik-Manik Dayak - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Manik-Manik Dayak - Warisan budaya luhur
+
+34. Tari Hudoq (kalimantan - Tradisi)
+   Slug       : tari-hudoq
+   Foto Utama : https://3.bp.blogspot.com/-a02h_MnxtKE/WcEAAtPgejI/AAAAAAAA4aE/34-bGCsoSkAW62YE_j0Tjer-uDKSfkspgCEwYBhgL/s1600/Hudoq4.JPG
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Penari Hudoq bertopeng kayu dan berbalut rimbun dedaunan pisang
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Ritual tarian di halaman desa Dayak diiringi tabuhan gong dan tubun
+     [Foto 3] https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80 — Detail ukiran topeng sakral Hudoq dengan taring kayu khas
+
+35. Erau Kutai (kalimantan - Tradisi)
+   Slug       : erau-kutai
+   Foto Utama : https://media.suara.com/pictures/970x544/2023/09/20/83098-perayaan-erau-di-kukar-ist.jpg
+   Galeri Foto:
+     [Foto 1] https://media.suara.com/pictures/970x544/2023/09/20/83098-perayaan-erau-di-kukar-ist.jpg — Erau Kutai - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Erau Kutai - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Erau Kutai - Warisan budaya luhur
+
+36. Tiwah (kalimantan - Tradisi)
+   Slug       : tiwah
+   Foto Utama : https://betv.disway.id/upload/4e1d105e7c0020b46c3aa3291a5b4563.jpeg
+   Galeri Foto:
+     [Foto 1] https://betv.disway.id/upload/4e1d105e7c0020b46c3aa3291a5b4563.jpeg — Tiwah - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Tiwah - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Tiwah - Warisan budaya luhur
+
+37. Coto Makassar (sulawesi - Makanan)
+   Slug       : coto-makassar
+   Foto Utama : https://i.pinimg.com/1200x/11/c3/4c/11c34c5fc5b213459af3b0de9cfa0224.jpg
+   Galeri Foto:
+     [Foto 1] https://kediripedia.com/wp-content/uploads/2020/01/sate-padang-1024x683.jpg — Semangkuk Coto Makassar kuah kacang kental dengan taburan daun bawang dan seledri
+     [Foto 2] https://www.jamrocksportsbarandgrill.com/wp-content/uploads/2026/02/Proses-Pembuatan-Rendang-Tradisional-yang-Kaya-Rempah-788x520.jpg — Penyajian dengan ketupat daun kelapa potong dan sambal taoco pedas
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Rebusan daging sapi dalam kuali tanah liat besar beraroma rempah wangi
+
+38. Konro (sulawesi - Makanan)
+   Slug       : konro
+   Foto Utama : https://i.pinimg.com/736x/40/d5/89/40d5893e63b4881706aac244021e520a.jpg
+   Galeri Foto:
+     [Foto 1] https://i.pinimg.com/736x/40/d5/89/40d5893e63b4881706aac244021e520a.jpg — Konro - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Konro - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Konro - Warisan budaya luhur
+
+39. Tinutuan (Bubur Manado) (sulawesi - Makanan)
+   Slug       : tinutuan
+   Foto Utama : https://i.pinimg.com/736x/81/77/ba/8177bab14663abb71bd3b6228027e91e.jpg
+   Galeri Foto:
+     [Foto 1] https://i.pinimg.com/736x/81/77/ba/8177bab14663abb71bd3b6228027e91e.jpg — Tinutuan (Bubur Manado) - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Tinutuan (Bubur Manado) - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Tinutuan (Bubur Manado) - Warisan budaya luhur
+
+40. Baju Bodo (sulawesi - Pakaian)
+   Slug       : baju-bodo
+   Foto Utama : https://i.pinimg.com/474x/be/59/e0/be59e0410da33d2059e188082d6e91f6.jpg
+   Galeri Foto:
+     [Foto 1] https://i.pinimg.com/474x/be/59/e0/be59e0410da33d2059e188082d6e91f6.jpg — Baju Bodo - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Baju Bodo - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Baju Bodo - Warisan budaya luhur
+
+41. Sutra Sengkang (sulawesi - Pakaian)
+   Slug       : sutra-sengkang
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpp4fp7tWG9l-nOZ8CcPzkD1KDWCcsvDFmuOwd-QnoPnm8W_anGjgi3kN&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpp4fp7tWG9l-nOZ8CcPzkD1KDWCcsvDFmuOwd-QnoPnm8W_anGjgi3kN&s=10 — Sutra Sengkang - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Sutra Sengkang - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Sutra Sengkang - Warisan budaya luhur
+
+42. Tenun Sa’dan Toraja (sulawesi - Pakaian)
+   Slug       : tenun-sadan
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnZhfiiIGd0lU1bw8qsfm2Gu1j6D3dv0MM_9NceA9D5GXdA5brkX9GYg&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnZhfiiIGd0lU1bw8qsfm2Gu1j6D3dv0MM_9NceA9D5GXdA5brkX9GYg&s=10 — Tenun Sa’dan Toraja - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Tenun Sa’dan Toraja - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Tenun Sa’dan Toraja - Warisan budaya luhur
+
+43. Rambu Solo (sulawesi - Tradisi)
+   Slug       : rambu-solo
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iEOcr8py88bx2zbJhYVElzf6KuVDYnvogeeyeN8Rzw&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iEOcr8py88bx2zbJhYVElzf6KuVDYnvogeeyeN8Rzw&s=10 — Rambu Solo - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Rambu Solo - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Rambu Solo - Warisan budaya luhur
+
+44. Seni Pembuatan Perahu Pinisi (sulawesi - Tradisi)
+   Slug       : pembuatan-pinisi
+   Foto Utama : https://awsimages.detik.net.id/community/media/visual/2023/11/21/awal-mula-bulukumba-jadi-pusat-pembuatan-kapal-pinisi-sejak-abad-15-1.jpeg?w=800
+   Galeri Foto:
+     [Foto 1] https://awsimages.detik.net.id/community/media/visual/2023/11/21/awal-mula-bulukumba-jadi-pusat-pembuatan-kapal-pinisi-sejak-abad-15-1.jpeg?w=800 — Seni Pembuatan Perahu Pinisi - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Seni Pembuatan Perahu Pinisi - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Seni Pembuatan Perahu Pinisi - Warisan budaya luhur
+
+45. Tari Pakarena (sulawesi - Tradisi)
+   Slug       : tari-pakarena
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcX9jMx_jg6lJLOpjykNO2DXig8D4EYG_kS9NFOtQFA&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcX9jMx_jg6lJLOpjykNO2DXig8D4EYG_kS9NFOtQFA&s=10 — Tari Pakarena - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Tari Pakarena - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Tari Pakarena - Warisan budaya luhur
+
+46. Ayam Taliwang (nusa-tenggara - Makanan)
+   Slug       : ayam-taliwang
+   Foto Utama : https://d1uz88p17r663j.cloudfront.net/original/c9083eee3069c0ddf0a6ce11ef8567a9_AyamBakar.jpg
+   Galeri Foto:
+     [Foto 1] https://d1uz88p17r663j.cloudfront.net/original/c9083eee3069c0ddf0a6ce11ef8567a9_AyamBakar.jpg — Ayam Taliwang - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Ayam Taliwang - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Ayam Taliwang - Warisan budaya luhur
+
+47. Se’i Sapi (nusa-tenggara - Makanan)
+   Slug       : sei-sapi
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfa4EkP93hmWjx9YdKYf_npdcPOeWrbuGbIb8-9MadlQZHEhBMl0gYO8sZ&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfa4EkP93hmWjx9YdKYf_npdcPOeWrbuGbIb8-9MadlQZHEhBMl0gYO8sZ&s=10 — Se’i Sapi - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Se’i Sapi - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Se’i Sapi - Warisan budaya luhur
+
+48. Jagung Bose (nusa-tenggara - Makanan)
+   Slug       : jagung-bose
+   Foto Utama : https://www.indonesia.travel/contentassets/32348301b31049bf8a9952a06bbc3294/jagung-bose.jpg
+   Galeri Foto:
+     [Foto 1] https://www.indonesia.travel/contentassets/32348301b31049bf8a9952a06bbc3294/jagung-bose.jpg — Jagung Bose - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Jagung Bose - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Jagung Bose - Warisan budaya luhur
+
+49. Tenun Ikat Sumba (nusa-tenggara - Pakaian)
+   Slug       : tenun-ikat
+   Foto Utama : https://i.pinimg.com/1200x/0f/4d/93/0f4d933283bcff58eeda10537c9ebf98.jpg
+   Galeri Foto:
+     [Foto 1] https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-SVgko2JTImRwC-3dGIE_3V2WjQDWi7UenMIhf0SnGo1CmJttJpxxnV_hwox08fANXpSsoel0tv8TE_aAoA78rFTVnMoAuE81Fy1IbGc-1gnbvt3CXADlaPPYzqjppkYJ0hauREqYDMQ/s1600/Industri-Batik-Hadapi-MEA-271015-Prad-1.jpg — Corak motif kuda dan burung kakatua pada kain Tenun Ikat Sumba Timur
+     [Foto 2] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=1200&auto=format&fit=crop — Mama-mama Sumba mengikat pola benang kapas sebelum proses celup warna alami
+     [Foto 3] https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=80 — Pameran kain tenun ikat pusaka di kampung adat Prai Ijing Sumba
+
+50. Songket Lombok (Sukarara) (nusa-tenggara - Pakaian)
+   Slug       : songket-lombok
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8jGHKF5MT0ENeRF372L1y-TbeVrhHeBdMe3bvpAjOw&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8jGHKF5MT0ENeRF372L1y-TbeVrhHeBdMe3bvpAjOw&s=10 — Songket Lombok (Sukarara) - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Songket Lombok (Sukarara) - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Songket Lombok (Sukarara) - Warisan budaya luhur
+
+51. Topi Ti’i Langga (nusa-tenggara - Pakaian)
+   Slug       : ti-i-langga
+   Foto Utama : https://pdbifiles.nos.jkt-1.neo.id/files/2014/06/24/roby08darisandi_tiilangga.jpg
+   Galeri Foto:
+     [Foto 1] https://pdbifiles.nos.jkt-1.neo.id/files/2014/06/24/roby08darisandi_tiilangga.jpg — Topi Ti’i Langga - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Topi Ti’i Langga - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Topi Ti’i Langga - Warisan budaya luhur
+
+52. Pasola (nusa-tenggara - Tradisi)
+   Slug       : pasola-sumba
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK8Vwh9RXSbU8EPEVLVkKRoEh8REKb0wrnhp6gH_ZfA&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK8Vwh9RXSbU8EPEVLVkKRoEh8REKb0wrnhp6gH_ZfA&s=10 — Pasola - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Pasola - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Pasola - Warisan budaya luhur
+
+53. Caci (nusa-tenggara - Tradisi)
+   Slug       : caci-manggarai
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ZxoXngjaJrnrijH6rWLM1SjVhX9JyXJ92sEBpSotg&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ZxoXngjaJrnrijH6rWLM1SjVhX9JyXJ92sEBpSotg&s=10 — Caci - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Caci - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Caci - Warisan budaya luhur
+
+54. Bau Nyale (nusa-tenggara - Tradisi)
+   Slug       : bau-nyale
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9AOZkfeTjINj_AlJe-wYLqO0V3NIxqYnF57xEjP3pGk7FyGKMD9IDTWs&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9AOZkfeTjINj_AlJe-wYLqO0V3NIxqYnF57xEjP3pGk7FyGKMD9IDTWs&s=10 — Bau Nyale - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Bau Nyale - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Bau Nyale - Warisan budaya luhur
+
+55. Papeda & Ikan Kuah Kuning (maluku - Makanan)
+   Slug       : papeda
+   Foto Utama : https://papeda.ambon.go.id/storage/2025/11/Papeda-ikan-kuah-kuning.jpg
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Papeda kenyal bening disajikan bersama sup ikan kuah kuning berempah
+     [Foto 2] https://kediripedia.com/wp-content/uploads/2020/01/sate-padang-1024x683.jpg — Teknik menggulung papeda dari mangkuk gerabah menggunakan gata-gata
+     [Foto 3] https://www.jamrocksportsbarandgrill.com/wp-content/uploads/2026/02/Proses-Pembuatan-Rendang-Tradisional-yang-Kaya-Rempah-788x520.jpg — Olahan ikan cakalang bumbu kuning segar khas laut banda
+
+56. Kohu-Kohu (maluku - Makanan)
+   Slug       : kohu-kohu
+   Foto Utama : https://asset.tribunnews.com/VXP5VynuVkiuz3ue9jVEQmyNJNo=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Resep-Kohu-Kohu-dan-Cara-Membuatnya.jpg
+   Galeri Foto:
+     [Foto 1] https://asset.tribunnews.com/VXP5VynuVkiuz3ue9jVEQmyNJNo=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Resep-Kohu-Kohu-dan-Cara-Membuatnya.jpg — Kohu-Kohu - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Kohu-Kohu - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Kohu-Kohu - Warisan budaya luhur
+
+57. Sagu Lempeng (maluku - Makanan)
+   Slug       : sagu-lempeng
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6D7tbS8Fsq4swmWYuTS4mpKE1dzc0zf5YsrhynAnPQ&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6D7tbS8Fsq4swmWYuTS4mpKE1dzc0zf5YsrhynAnPQ&s=10 — Sagu Lempeng - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Sagu Lempeng - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Sagu Lempeng - Warisan budaya luhur
+
+58. Baju Cele (maluku - Pakaian)
+   Slug       : baju-cele
+   Foto Utama : https://radarmukomuko.disway.id/upload/0b4de64d01ef6182a28d74db7557976e.jpg
+   Galeri Foto:
+     [Foto 1] https://radarmukomuko.disway.id/upload/0b4de64d01ef6182a28d74db7557976e.jpg — Baju Cele - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Baju Cele - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Baju Cele - Warisan budaya luhur
+
+59. Tenun Ikat Tanimbar (maluku - Pakaian)
+   Slug       : tenun-tanimbar
+   Foto Utama : https://awsimages.detik.net.id/community/media/visual/2022/10/10/jokowi-mengenakan-kain-khas-tanimbar-1_169.jpeg?w=1200
+   Galeri Foto:
+     [Foto 1] https://awsimages.detik.net.id/community/media/visual/2022/10/10/jokowi-mengenakan-kain-khas-tanimbar-1_169.jpeg?w=1200 — Tenun Ikat Tanimbar - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Tenun Ikat Tanimbar - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Tenun Ikat Tanimbar - Warisan budaya luhur
+
+60. Lenso (maluku - Pakaian)
+   Slug       : lenso
+   Foto Utama : https://down-id.img.susercontent.com/file/id-11134207-7qul5-ljxx3cjp6hj73c
+   Galeri Foto:
+     [Foto 1] https://down-id.img.susercontent.com/file/id-11134207-7qul5-ljxx3cjp6hj73c — Lenso - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Lenso - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Lenso - Warisan budaya luhur
+
+61. Tari Cakalele (maluku - Tradisi)
+   Slug       : tari-cakalele
+   Foto Utama : https://image.idn.media/post/20230313/0413232022-shutterstock-1483726541-4ca10d321848f1c96b9086e0d4cbfff3.jpg
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Prajurit Cakalele memegang parang dan salawaku dengan tatapan tajam berani
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Gerakan loncatan dinamis menghentak bumi mengelilingi api unggun
+     [Foto 3] https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80 — Tabuhan tifa berdentum mengiringi teriakan pekik perang adat
+
+62. Pela Gandong (maluku - Tradisi)
+   Slug       : pela-gandong
+   Foto Utama : https://www.harapanrakyat.com/wp-content/uploads/2025/01/Mengenal-Tradisi-Sejarah-Pela-Gandong-di-Maluku.jpg
+   Galeri Foto:
+     [Foto 1] https://www.harapanrakyat.com/wp-content/uploads/2025/01/Mengenal-Tradisi-Sejarah-Pela-Gandong-di-Maluku.jpg — Pela Gandong - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Pela Gandong - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Pela Gandong - Warisan budaya luhur
+
+63. Bambu Gila (maluku - Tradisi)
+   Slug       : bambu-gila
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjq6nUU5pyrlRz0Gz-hjvWSwdSlXNJ6L65Gj388OSMPCsyngG7w-CC6yU&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjq6nUU5pyrlRz0Gz-hjvWSwdSlXNJ6L65Gj388OSMPCsyngG7w-CC6yU&s=10 — Bambu Gila - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Bambu Gila - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Bambu Gila - Warisan budaya luhur
+
+64. Papeda Papua (papua - Makanan)
+   Slug       : papeda-papua
+   Foto Utama : https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg/1280px-Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail
+   Galeri Foto:
+     [Foto 1] https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg/1280px-Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail — Papeda Papua - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Papeda Papua - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Papeda Papua - Warisan budaya luhur
+
+65. Ulat Sagu (papua - Makanan)
+   Slug       : ulat-sagu
+   Foto Utama : https://media.sukabumiupdate.com/media/2023/02/16/1676558256_63ee3fb010c0d_87fkGAhGjdnTPMSkOWoK.jpg
+   Galeri Foto:
+     [Foto 1] https://media.sukabumiupdate.com/media/2023/02/16/1676558256_63ee3fb010c0d_87fkGAhGjdnTPMSkOWoK.jpg — Ulat Sagu - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80 — Ulat Sagu - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Ulat Sagu - Warisan budaya luhur
+
+66. Udang Selingkuh (papua - Makanan)
+   Slug       : udang-selingkuh
+   Foto Utama : https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Biak/o/1740029957336-UDANG-SELINGKUH/6qlizdbxa79s7ob.jpeg
+   Galeri Foto:
+     [Foto 1] https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Biak/o/1740029957336-UDANG-SELINGKUH/6qlizdbxa79s7ob.jpeg — Udang Selingkuh - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80 — Udang Selingkuh - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80 — Udang Selingkuh - Warisan budaya luhur
+
+67. Tas Noken Papua (papua - Pakaian)
+   Slug       : noken
+   Foto Utama : https://i.pinimg.com/736x/c1/3b/fb/c13bfbacca59a2d426f4d086e380656a.jpg   
+   Galeri Foto:
+     [Foto 1] https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=80 — Mama Papua mengenakan tas Noken rajutan serat kayu alami di dahi kepala
+     [Foto 2] https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-SVgko2JTImRwC-3dGIE_3V2WjQDWi7UenMIhf0SnGo1CmJttJpxxnV_hwox08fANXpSsoel0tv8TE_aAoA78rFTVnMoAuE81Fy1IbGc-1gnbvt3CXADlaPPYzqjppkYJ0hauREqYDMQ/s1600/Industri-Batik-Hadapi-MEA-271015-Prad-1.jpg — Pola rajutan Noken dengan warna-warni pewarna alami daun dan buah hutan
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=1200&auto=format&fit=crop — Proses pemintalan serat kulit kayu hutan menjadi benang rajut kuat
+
+68. Kain Kulit Kayu Asei (papua - Pakaian)
+   Slug       : kain-kulit-kayu-asei
+   Foto Utama : https://indonesiakaya.com/wp-content/uploads/2020/10/kerajinan_kulit_kayu_1290.jpg
+   Galeri Foto:
+     [Foto 1] https://indonesiakaya.com/wp-content/uploads/2020/10/kerajinan_kulit_kayu_1290.jpg — Kain Kulit Kayu Asei - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80 — Kain Kulit Kayu Asei - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Kain Kulit Kayu Asei - Warisan budaya luhur
+
+69. Busana Adat Papua (papua - Pakaian)
+   Slug       : busana-adat-papua
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUg0xuRi_w4xr28IcdA_-fFxxxWcpLV0K474-ITL8MA&s
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUg0xuRi_w4xr28IcdA_-fFxxxWcpLV0K474-ITL8MA&s — Busana Adat Papua - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80 — Busana Adat Papua - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop — Busana Adat Papua - Warisan budaya luhur
+
+70. Bakar Batu (papua - Tradisi)
+   Slug       : bakar-batu
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPqN_jZQ4aS8_3kIVcsOZUduqUgMO4pdPRLaLp8nxcg&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPqN_jZQ4aS8_3kIVcsOZUduqUgMO4pdPRLaLp8nxcg&s=10 — Bakar Batu - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Bakar Batu - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Bakar Batu - Warisan budaya luhur
+
+71. Festival Lembah Baliem (papua - Tradisi)
+   Slug       : festival-lembah-baliem
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGYRYM99xLGiKZxuUPOwkZAJBZvQp75vFKB3EnrvE9g2czTpLi0rZbHXY&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGYRYM99xLGiKZxuUPOwkZAJBZvQp75vFKB3EnrvE9g2czTpLi0rZbHXY&s=10 — Festival Lembah Baliem - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80 — Festival Lembah Baliem - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Festival Lembah Baliem - Warisan budaya luhur
+
+72. Tari Yospan (papua - Tradisi)
+   Slug       : tari-yospan
+   Foto Utama : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wZtwh9-K9Tn4nBPPZSYko8xIhKbaFtuVOYOleQvstA&s=10
+   Galeri Foto:
+     [Foto 1] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wZtwh9-K9Tn4nBPPZSYko8xIhKbaFtuVOYOleQvstA&s=10 — Tari Yospan - Dokumentasi utama
+     [Foto 2] https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80 — Tari Yospan - Keindahan warisan nusantara
+     [Foto 3] https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80 — Tari Yospan - Warisan budaya luhur
+
+----------------------------------------------------------------
+3. DAFTAR SEMUA URL UNIK (TOTAL: 105 LINK)
+----------------------------------------------------------------
+1. https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?auto=format&fit=crop&w=1200&q=80
+2. https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1200&q=80
+3. https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80
+4. https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80
+5. https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80
+6. https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80
+7. https://images.unsplash.com/photo-1559827291-72ebf3d20d4c?auto=format&fit=crop&w=1200&q=80
+8. https://images.unsplash.com/photo-1597655601841-214a4cfe8b2c?auto=format&fit=crop&w=1200&q=80
+9. https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/17A7A/production/_102609869_rendanggettysatu.jpg.webp
+10. https://www.dailymeatrecipe.com/wp-content/uploads/2025/07/Beef-Rendang-Recipe.webp
+11. https://image.idntimes.com/post/20250122/1542px-memasak-rendang-59f506aa441e3192bb4237a4e87b2a36-7875d0d5fe6d24dc396302de528f1f39.jpg?tr=w-1200
+12. https://www.jamrocksportsbarandgrill.com/wp-content/uploads/2026/02/Proses-Pembuatan-Rendang-Tradisional-yang-Kaya-Rempah-788x520.jpg
+13. https://sumbarzone.com/wp-content/uploads/2024/06/sate-padang-2.jpeg
+14. https://static.vecteezy.com/system/resources/thumbnails/015/957/916/small_2x/sate-padang-or-satay-padang-is-spicy-beef-satay-from-padang-west-sumatra-served-with-spicy-curry-sauce-and-rice-cake-lontong-on-banana-leaf-isolated-on-white-background-photo.jpg
+15. https://kediripedia.com/wp-content/uploads/2020/01/sate-padang-1024x683.jpg
+16. https://radarmukomuko.disway.id/upload/cc047869d0bff7ad27a0956ced9d1d63.jpg
+17. https://www.pinterpolitik.com/wp-content/uploads/2023/09/foto-radarmukomuko-dot-disway-dot-id.webp
+18. https://www.dandapala.com/assets/back/article/img/compress/menilik-kreativitas-wong-kito-galo-dalam-ragam-jenis-pempek-thumbnail.jpg
+19. https://awsimages.detik.net.id/community/media/visual/2024/10/01/cuko-pempek-palembang_43.jpeg?w=700&q=90
+20. https://indonesiaexpat.id/wp-content/uploads/2023/11/Main-Image-Songket-Palembang-by-Digstraksi.jpg
+21. https://enimekspres.disway.id/upload/1cc69ea7a4a1a549b6540051b43d1d75.jpg
+22. https://i.pinimg.com/1200x/ed/0b/d7/ed0bd7af8482c4c018c3cf22d3815cda.jpg
+23. https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=80
+24. https://floodlove.net/wp-content/uploads/2022/12/Jenis-jenis-Ulos-Batak.webp
+25. https://images.unsplash.com/photo-1761516659497-8478e39d2b26?auto=format&fit=crop&w=1200&q=80
+26. https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80
+27. https://i.pinimg.com/originals/9e/c5/66/9ec566302570efc8d57e8e4b6adf9987.jpg?nii=t
+28. https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop
+29. https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/24/2021/07/tari-4-1.jpg?width=700&quality=80
+30. https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-SVgko2JTImRwC-3dGIE_3V2WjQDWi7UenMIhf0SnGo1CmJttJpxxnV_hwox08fANXpSsoel0tv8TE_aAoA78rFTVnMoAuE81Fy1IbGc-1gnbvt3CXADlaPPYzqjppkYJ0hauREqYDMQ/s1600/Industri-Batik-Hadapi-MEA-271015-Prad-1.jpg
+31. https://2.bp.blogspot.com/-TEqWsjKt3cY/UJ0N8NwVWBI/AAAAAAAAAJg/P-X1V-9D1Cg/s1600/Lompat+Batu+Nias.JPG
+32. https://api.kemenpar.go.id/storage/app/uploads/public/688/c94/6b4/thumb_14595_1200_630_0_0_crop.jpg
+33. https://images.bisnis.com/posts/2025/07/02/1889814/pacu_jalur_1751443671.jpg
+34. https://asset.mediaindonesia.com/news/2025/08/19/1755558617_1a0cbac0abf7ddec3aa1.jpg
+35. https://img.freepik.com/premium-photo/close-up-gudeg-komplit-signature-legendary-dish-from-yogyakarta-indonesia-jack-fruit-stew-accompanied-with-spicy-stew-cattle-skin-crackers-brown-eggs-tofu-tempeh-sambal_511235-5876.jpg?w=2000
+36. https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80
+37.  https://kabarbaru.co/wp-content/uploads/2022/02/Rawon-800x533.jpg
+38. https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80
+39. https://img-global.cpcdn.com/recipes/b052fb8eea6aab1f/680x482cq70/lumpia-semarang-foto-resep-utama.jpg
+40. https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80
+41. https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+42. https://images.unsplash.com/photo-1695306441929-0082158cfc27?q=80&w=1200&auto=format&fit=crop
+43. https://www.yupiland.com/assets/images/blog%202023/Contoh%20Batik/Batik%20Sogan.webp
+44. https://weddingmarket.com/storage/images/artikelideacontent/new/7890342456acc9aed3d41a373928230402a428ed.webp
+45. https://down-id.img.susercontent.com/file/84d92bf8d48270ad15be674976fde826
+46. https://www.indonesia.travel/contentassets/1ee02702541042c38e6841435fb28318/wayang_banner.jpg
+47. https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80
+48. https://s1.dmcdn.net/v/X0dwS1d0-DhYmA6PE/x720
+49. https://cdngnfi2.sgp1.digitaloceanspaces.com/gnfi/uploads/images/2024/10/1024px-tarian-reog-ponorogojpg
+50. https://bisnisusahaonline.com/wp-content/uploads/2021/10/1610275052814-sate-lilit.jpg
+51.  https://i.pinimg.com/736x/7f/b8/d9/7fb8d98cb1943e743d15374e2174ee97.jpg
+52.  https://blog.inivie.com/wp-content/uploads/2025/02/Artboard-13-20-1-1024x683.jpg
+53.  https://down-id.img.susercontent.com/file/id-11134207-7ra0h-md2zyghhw8txaf
+54. https://weddingmarket.com/storage/images/artikelideacontent/new/b5742c14b2951e6a759ecef6fbef2a55062c8dce.webp
+55.  https://down-id.img.susercontent.com/file/sg-11134201-22110-yprp3re844jv64
+56. https://cdn.ngopibareng.id/uploads/2022/2022-01-14/tari-kecak-merajut-asa-menuai-mimpi-pulihkan-wisata-di-bali--thumbnail-252
+57. https://images.unsplash.com/photo-1773563794845-b56cfaf0532a?auto=format&fit=crop&w=1200&q=80
+58. https://4.bp.blogspot.com/--FFfW6khOHU/UCZI2s7tfHI/AAAAAAAAAj0/Zzl7lxJtn6M/s1600/ngaben.jpg
+59. https://cdn-1.timesmedia.co.id/images/2022/09/02/Hari-Raya-Nyepi-3.jpg
+60. https://media.tampang.com/tm_images/article/202411/buah-organikvpq8cjbb24h64gea.jpg
+61. https://dimensiindonesia.com/wp-content/uploads/2025/11/Juhu-Singkah-scaled.jpg
+62. https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/03/3377290914.jpeg
+63. https://down-id.img.susercontent.com/file/id-11134207-7r98o-lm4ok7j6udv8e1
+64. https://asset-3s.3second.co.id/blog/image%20blog/1774882727.png
+65. https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/09/16/769367535.jpg
+66. https://3.bp.blogspot.com/-a02h_MnxtKE/WcEAAtPgejI/AAAAAAAA4aE/34-bGCsoSkAW62YE_j0Tjer-uDKSfkspgCEwYBhgL/s1600/Hudoq4.JPG
+67. https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80
+68. https://media.suara.com/pictures/970x544/2023/09/20/83098-perayaan-erau-di-kukar-ist.jpg
+69. https://betv.disway.id/upload/4e1d105e7c0020b46c3aa3291a5b4563.jpeg
+70. https://i.pinimg.com/1200x/11/c3/4c/11c34c5fc5b213459af3b0de9cfa0224.jpg
+71. https://i.pinimg.com/736x/40/d5/89/40d5893e63b4881706aac244021e520a.jpg
+72. https://i.pinimg.com/736x/81/77/ba/8177bab14663abb71bd3b6228027e91e.jpg
+73. https://i.pinimg.com/474x/be/59/e0/be59e0410da33d2059e188082d6e91f6.jpg
+74. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpp4fp7tWG9l-nOZ8CcPzkD1KDWCcsvDFmuOwd-QnoPnm8W_anGjgi3kN&s=10
+75. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnZhfiiIGd0lU1bw8qsfm2Gu1j6D3dv0MM_9NceA9D5GXdA5brkX9GYg&s=10
+76. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iEOcr8py88bx2zbJhYVElzf6KuVDYnvogeeyeN8Rzw&s=10
+77. https://awsimages.detik.net.id/community/media/visual/2023/11/21/awal-mula-bulukumba-jadi-pusat-pembuatan-kapal-pinisi-sejak-abad-15-1.jpeg?w=800
+78. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcX9jMx_jg6lJLOpjykNO2DXig8D4EYG_kS9NFOtQFA&s=10
+79. https://d1uz88p17r663j.cloudfront.net/original/c9083eee3069c0ddf0a6ce11ef8567a9_AyamBakar.jpg
+80. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfa4EkP93hmWjx9YdKYf_npdcPOeWrbuGbIb8-9MadlQZHEhBMl0gYO8sZ&s=10
+81. https://www.indonesia.travel/contentassets/32348301b31049bf8a9952a06bbc3294/jagung-bose.jpg
+82. https://i.pinimg.com/1200x/0f/4d/93/0f4d933283bcff58eeda10537c9ebf98.jpg
+83. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8jGHKF5MT0ENeRF372L1y-TbeVrhHeBdMe3bvpAjOw&s=10
+84. https://pdbifiles.nos.jkt-1.neo.id/files/2014/06/24/roby08darisandi_tiilangga.jpg
+85. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK8Vwh9RXSbU8EPEVLVkKRoEh8REKb0wrnhp6gH_ZfA&s=10
+86. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ZxoXngjaJrnrijH6rWLM1SjVhX9JyXJ92sEBpSotg&s=10
+87. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9AOZkfeTjINj_AlJe-wYLqO0V3NIxqYnF57xEjP3pGk7FyGKMD9IDTWs&s=10
+88. https://papeda.ambon.go.id/storage/2025/11/Papeda-ikan-kuah-kuning.jpg
+89. https://asset.tribunnews.com/VXP5VynuVkiuz3ue9jVEQmyNJNo=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Resep-Kohu-Kohu-dan-Cara-Membuatnya.jpg
+90. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6D7tbS8Fsq4swmWYuTS4mpKE1dzc0zf5YsrhynAnPQ&s=10
+91. https://radarmukomuko.disway.id/upload/0b4de64d01ef6182a28d74db7557976e.jpg
+92. https://awsimages.detik.net.id/community/media/visual/2022/10/10/jokowi-mengenakan-kain-khas-tanimbar-1_169.jpeg?w=1200
+93. https://down-id.img.susercontent.com/file/id-11134207-7qul5-ljxx3cjp6hj73c
+94. https://image.idn.media/post/20230313/0413232022-shutterstock-1483726541-4ca10d321848f1c96b9086e0d4cbfff3.jpg
+95. https://www.harapanrakyat.com/wp-content/uploads/2025/01/Mengenal-Tradisi-Sejarah-Pela-Gandong-di-Maluku.jpg
+96. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjq6nUU5pyrlRz0Gz-hjvWSwdSlXNJ6L65Gj388OSMPCsyngG7w-CC6yU&s=10
+97. https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg/1280px-Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail
+98. https://media.sukabumiupdate.com/media/2023/02/16/1676558256_63ee3fb010c0d_87fkGAhGjdnTPMSkOWoK.jpg
+99. https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Biak/o/1740029957336-UDANG-SELINGKUH/6qlizdbxa79s7ob.jpeg
+100. https://i.pinimg.com/736x/c1/3b/fb/c13bfbacca59a2d426f4d086e380656a.jpg   
+101. https://indonesiakaya.com/wp-content/uploads/2020/10/kerajinan_kulit_kayu_1290.jpg
+102. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUg0xuRi_w4xr28IcdA_-fFxxxWcpLV0K474-ITL8MA&s
+103. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPqN_jZQ4aS8_3kIVcsOZUduqUgMO4pdPRLaLp8nxcg&s=10
+104. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGYRYM99xLGiKZxuUPOwkZAJBZvQp75vFKB3EnrvE9g2czTpLi0rZbHXY&s=10
+105. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wZtwh9-K9Tn4nBPPZSYko8xIhKbaFtuVOYOleQvstA&s=10
